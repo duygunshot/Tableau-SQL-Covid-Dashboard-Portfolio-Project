@@ -1,6 +1,6 @@
 # Tableau-SQL-Covid-Dashboard-Portfolio-Project
 ![Visualization](https://github.com/duygunshot/Tableau-SQL-Covid-Dashboard-Portfolio-Project/assets/60246562/aba25565-5803-4aa1-8596-e70495e6fd79)
-(Open CovidDashboard.html to interact with the dashboard)
+(Open CovidDashboard.html or the Tableau link below to interact with the dashboard)
 
 A Covid dashboard using dataset of Covid Deaths and Vaccines from 2020 to 2021 
 https://ourworldindata.org/covid-deaths
